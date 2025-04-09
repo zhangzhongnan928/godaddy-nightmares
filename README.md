@@ -16,6 +16,11 @@ By sharing these stories, we hope to help others make more informed decisions an
 
 This project was inspired by [Link to Your Blog Post/Story Summary Here - e.g., a specific negative experience involving mcp.ai on GoDaddy Auctions in Feb-Apr 2025]. We believe sharing such experiences publicly can benefit the wider community.
 
+## Submitted Experiences
+
+Browse the stories submitted as Markdown files in the [**/stories**](link-to-stories-directory) directory.
+
+
 ## How to Contribute
 
 Have you had a notable experience (positive or negative, though the focus is on issues) with GoDaddy Auctions or another domain auction platform? We encourage you to share it!

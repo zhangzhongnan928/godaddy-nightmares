@@ -1,4 +1,4 @@
-# Godaddy Nightmares
+# GoDaddy Nightmares
 
 ## Purpose
 

@@ -14,21 +14,26 @@ By sharing these stories, we hope to help others make more informed decisions an
 
 ## Motivation
 
-This project was inspired by [Link to Your Blog Post/Story Summary Here - e.g., a specific negative experience involving mcp.ai on GoDaddy Auctions in Feb-Apr 2025]. We believe sharing such experiences publicly can benefit the wider community.
-
-## Submitted Experiences
-
-Browse the stories submitted as Markdown files in the [**/stories**](link-to-stories-directory) directory.
-
+This project was inspired by the experience detailed in our first featured story below. We believe sharing such experiences publicly can benefit the wider community.
 
 ## How to Contribute
 
 Have you had a notable experience (positive or negative, though the focus is on issues) with GoDaddy Auctions or another domain auction platform? We encourage you to share it!
 
 * **Preferred Method:** Open a **GitHub Issue** using our "Share Your Experience" template.
-* **Alternative:** Submit a **Pull Request** with your story as a Markdown file.
+* **Alternative:** Submit a **Pull Request** with your story as a Markdown file in the `/stories` directory.
 
 Please see our detailed **[CONTRIBUTING.md](CONTRIBUTING.md)** guide for instructions and the story template.
+
+## Submitted Experiences
+
+You can find user-submitted stories in a few ways:
+
+* **Browse the Directory:** Stories submitted as Markdown files are located in the [**/stories**](./stories) directory. *(Note: This link assumes a `/stories` directory in the repository root. Adjust if needed.)*
+* **Check Issues:** Stories may also be submitted or discussed via [**GitHub Issues**](link-to-your-repo-issues-tab). Use labels to filter by platform or issue type. *(Note: Replace `link-to-your-repo-issues-tab` with the actual URL to your repository's Issues tab once created.)*
+
+### Featured Story Example
+* [My Nightmare Experience with mcp.ai on GoDaddy Auctions](link-to-your-story-file-or-issue) *(Note: Replace this with the actual title and link to your initial story, whether it's a file in `/stories` or an Issue).*
 
 ## ⚠️ Important: Privacy Warning
 

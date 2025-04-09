@@ -34,7 +34,7 @@ You can find user-submitted stories in a few ways:
 
 ### Featured Story Example
 * [My Nightmare Experience with mcp.ai on GoDaddy Auctions](https://github.com/zhangzhongnan928/godaddy-nightmares/blob/main/stories/My%20Nightmare%20Experience%20with%20GoDaddy%20Auctions%3A%20A%20Warning%20to%20Domain%20Buyers.md)
-* 
+* Your stories
 ## ⚠️ Important: Privacy Warning
 
 **DO NOT include any Personal Identifiable Information (PII)** in your submissions. This includes, but is not limited to:

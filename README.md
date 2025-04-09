@@ -33,7 +33,7 @@ You can find user-submitted stories in a few ways:
 * **Check Issues:** Stories may also be submitted or discussed via [**GitHub Issues**](link-to-your-repo-issues-tab). Use labels to filter by platform or issue type. *(Note: Replace `link-to-your-repo-issues-tab` with the actual URL to your repository's Issues tab once created.)*
 
 ### Featured Story Example
-* [My Nightmare Experience with mcp.ai on GoDaddy Auctions](link-to-your-story-file-or-issue) *(Note: Replace this with the actual title and link to your initial story, whether it's a file in `/stories` or an Issue).*
+* [My Nightmare Experience with mcp.ai on GoDaddy Auctions](https://github.com/zhangzhongnan928/godaddy-nightmares/blob/main/stories/My%20Nightmare%20Experience%20with%20GoDaddy%20Auctions%3A%20A%20Warning%20to%20Domain%20Buyers.md) *(Note: Replace this with the actual title and link to your initial story, whether it's a file in `/stories` or an Issue).*
 
 ## ⚠️ Important: Privacy Warning
 

@@ -57,4 +57,4 @@ All participants are expected to follow our **[CODE_OF_CONDUCT.md](CODE_OF_CONDU
 
 ## License
 
-The structure and code of this repository are licensed under the MIT License. Submitted stories and content are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. See **[LICENSE](LICENSE)** for details.
+The structure and code of this repository are licensed under the MIT License. Submitted stories and content are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.

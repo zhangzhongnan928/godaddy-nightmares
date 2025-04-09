@@ -4,13 +4,13 @@ I'm writing this post as a stark warning to anyone considering using GoDaddy Auc
 
 **The Initial Purchase: High Hopes, High Cost**
 
-On February 26, 2025, I successfully won an auction for the domain name `mcp.ai` through GoDaddy Auctions. This wasn't a small purchase; the final price was a significant $21,910.54 (though the auction page listed $13,911 - the email receipt confirms the higher amount was charged). This domain was crucial for launching a new product I had planned. I received the order confirmation and initially expected the domain to appear in my account within the typical timeframe, which support initially estimated as 10-15 days.
+On February 26, 2025, I successfully won an auction for the domain name `mcp.ai` through GoDaddy Auctions. This wasn't a small purchase; the final price was a significant $21,910.54. This domain was crucial for launching a new product I had planned. I received the order confirmation and initially expected the domain to appear in my account within the typical timeframe, which support initially estimated as 10-15 days.
 
 **The Endless Wait and Support Labyrinth**
 
 Days turned into weeks, and the domain `mcp.ai` never appeared in my GoDaddy account. This marked the beginning of an incredibly frustrating journey through GoDaddy's customer support system.
 
-I contacted GoDaddy support repeatedly via WhatsApp and email. I estimate I interacted with *at least* a dozen different support agents across these channels. Each interaction followed a depressingly similar pattern:
+I contacted GoDaddy support repeatedly via WhatsApp, email and phone call. I estimate I interacted with *at least* a dozen different support agents across these channels. Each interaction followed a depressingly similar pattern:
 
 1.  **Endless Verification:** Repeated requests for my Customer ID, PIN, and often, 2-step verification codes from my authenticator app. (Ironically, their own documentation states they won't ask for MFA codes).
 2.  **Agent Handoffs:** Often, the chat would disconnect or I'd be passed to a new agent who needed to review the entire conversation again.
